@@ -1,6 +1,6 @@
-# C3
+# Kronus-core
 
-**C3** is a comprehensive C3 library that unifies essential functionality from various C/C++ libraries. It provides a clean and modern interface to interact with filesystems, perform mathematical operations, manage stream I/O, and work with advanced string utilities.
+**Kronus-core** is a comprehensive library that unifies essential functionality from various C/C++ libraries for kronus projects. It provides a clean and modern interface to interact with filesystems, perform mathematical operations, manage stream I/O, and work with advanced string utilities.
 
 ## 🚀 Features
 
