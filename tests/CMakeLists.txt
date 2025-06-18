@@ -1,0 +1,3 @@
+add_subdirectory(ccstring_examples)
+add_subdirectory(fsystem_examples)
+add_subdirectory(object_examples)
