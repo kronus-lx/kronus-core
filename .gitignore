@@ -31,6 +31,8 @@
 *.out
 *.app
 
+.vs
+
 # Folders
 out/
 build/
