@@ -1,0 +1,13 @@
+#pragma once
+
+#define CONTINUE 100
+#define SWITCHING_PROTOCOLS 101
+#define EARLY_HINTS 103
+
+#define SUCCESS 200
+#define CREATED 201
+#define ACCEPTED 202
+#define NON_AUTHORITIVE 203
+#define NO_CONTENT 204
+#define RESET_CONTENT 205
+#define PARTIAL_CONTENT 206

@@ -19,11 +19,11 @@ enable_testing()
 set(SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR})
 
 add_subdirectory(cclass)
-add_subdirectory(ccstring)
 add_subdirectory(fsystem)
 add_subdirectory(utils)
 add_subdirectory(math)
 add_subdirectory(examples)
+add_subdirectory(http)
 
 file(GLOB_RECURSE HEADERS ${PROJECT_SOURCE_DIR}/*.h ${PROJECT_SOURCE_DIR}/*.hpp ${PROJECT_SOURCE_DIR}/*.ixx)
 install(FILES ${HEADERS} DESTINATION include)
